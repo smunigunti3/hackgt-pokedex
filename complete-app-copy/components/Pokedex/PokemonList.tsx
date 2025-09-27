@@ -1,4 +1,4 @@
-import { PokemonListItem } from '@/exercises/exercise-2/PokemonListItem';
+import { PokemonListItem } from '@/components/Shared/Pokedex/PokemonListItem';
 import { useGetAllPokemonQuery } from '@/hooks/useGetAllPokemonQuery';
 import { FlatList, StyleSheet, View } from 'react-native';
 
